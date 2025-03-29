@@ -7,8 +7,6 @@
 🚀 Give a Star ⭐️ & Fork to this project ... Happy coding! 🤩
 ```
 
-![Open Source ERP / CRM - MERN Stack (Node.js/React.js)](https://user-images.githubusercontent.com/50052356/141647096-dcb66696-6103-4850-ae21-9fc97a412252.png)
-
 `username : admin@demo.com password : admin123`
 
 ## Getting started
@@ -16,7 +14,7 @@
 #### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/asadmrsoft/accounting.git
+git clone https://github.com/asadmrsoft/iiam.git
 ```
 
 ```bash
